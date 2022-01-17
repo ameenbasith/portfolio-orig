@@ -1,4 +1,4 @@
-# Portfolio Website (Ameen)
+# Portfolio Website
 Portfolio showcasing a few examples of my projects, originally utilized an HTML5 Boilerplate, however, the animations needed improvement, therefore, I utilized CSS and JavaScript (style.css and particle.js) to sculpt the front-end to my liking.
 
 ## The Problem
