@@ -11,4 +11,5 @@ Until then, here is a short video purely showcasing some interesting portions of
 https://user-images.githubusercontent.com/90441599/149759931-f0eccc60-f044-4e0b-85f5-68b7801b6315.mp4
 
 0:00 (Inital typing animation and constellation!)
+
 0:18 (My works)
